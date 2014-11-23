@@ -1,0 +1,6 @@
+{
+  "application": {
+    "uriBase": "http://localhost:31234/",
+    "port": 31234
+  }
+}
